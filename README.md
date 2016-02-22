@@ -4,6 +4,12 @@
 
 Send an email to the admin, everytime a user has logged in to the panel.
 
+**IMPORTANT**
+
+The remote API is not always working which can disble access to the Kirby panel; please, be aware of this issue.
+
+You can disable the remote access in the settings (see below), this will not alter the plugin itself.
+
 ****
 
 ### What is it?
